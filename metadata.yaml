@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32411'
     url: http://www.gutenberg.org/2009/agents/32411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26991#A-Short-System-of-English-GrammarFor-the-Use-of-the-Boarding-School-in-Worcester--1759-
 gutenberg_issued: '2008-10-22'
 gutenberg_type: Text
 identifiers:
