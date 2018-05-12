@@ -1,0 +1,26 @@
+_repo: A-Short-System-of-English-GrammarFor-the-Use-of-the-Boarding-School-in-Worcester--1759-_26991
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bate, Henry
+    gutenberg_agent_id: '32411'
+    url: http://www.gutenberg.org/2009/agents/32411
+description: ''
+gutenberg_issued: '2008-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: 'A Short System of English Grammar
+
+  For the Use of the Boarding School in Worcester (1759)'
+url: http://www.gutenberg.org/ebooks/26991
